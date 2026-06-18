@@ -33,9 +33,7 @@ function catTalk(){
 
 alert(
 "meow 🐾kata reza ganteng atuu jangan lupa senyum hari ini"
-);
-
-}
+);}
 
 
 
