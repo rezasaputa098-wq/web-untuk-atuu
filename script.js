@@ -32,7 +32,7 @@ behavior:"smooth"
 function catTalk(){
 
 alert(
-"meow 🐾 Nuraisyah jangan lupa senyum hari ini"
+"meow 🐾kata reza ganteng atuu jangan lupa senyum hari ini"
 );
 
 }
@@ -50,7 +50,7 @@ let text=document.getElementById("gameText");
 if(x==1){
 
 text.innerHTML=
-"🐈 kucing ini bilang: jangan lupa makan ya";
+"🐈 kucing ini bilang: atuu kalo soal makan makanan sehat, dia paling semangat (misalnya)";
 
 }
 
@@ -58,7 +58,7 @@ text.innerHTML=
 if(x==2){
 
 text.innerHTML=
-"🐈‍⬛ kucing ini bilang: jangan tidur terlalu malam";
+"🐈‍⬛ kucing ini bilang: atuu selalu tidur tepat waktu ga sampe larut malem (misalnya)";
 
 }
 
@@ -66,7 +66,7 @@ text.innerHTML=
 if(x==3){
 
 text.innerHTML=
-"🐱 kucing ini bilang: kamu berharga, jangan lupa jaga diri";
+"🐱 kucing ini bilang: atuu baik bangett, selalu kirim pap tanpa sekali liat (misalnya)";
 
 }
 
@@ -83,7 +83,7 @@ function secret(){
 document.getElementById("secretText")
 .innerHTML=
 
-"🤍 ternyata rahasianya cuma satu... aku berharap Nuraisyah selalu bahagia";
+"🤍 Lovee youuu cantikkk";
 
 
 }
